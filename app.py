@@ -25,6 +25,6 @@ while True:
     if con=="y"or con=="Y":
         continue
     else:
-        print("Thanks for using application!")
+        print("Thanks for using application!!")
         exit()
         
