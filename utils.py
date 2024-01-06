@@ -11,9 +11,3 @@ def write_json(data):
     f=open(STDFILE,"w")
     json.dump(data,f,indent=3)
     f.close()
-
-# print(read_json())
-# temp={'students': [
-#     "name"
-# ]}
-# write_json(temp)
